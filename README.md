@@ -2,8 +2,6 @@
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
-
 # Data-Set Selected:
 
 ## Gun Violence Data
