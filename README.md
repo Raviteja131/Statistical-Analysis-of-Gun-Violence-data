@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 Information on instances of gun violence documented in the United States from January 2013 through March 2018. Note that gun violence incidents in 2013 are not all included, with only 279 incidents from 2013 in this data set, notably missing the Las Vegas Mass Shooting. The data is contained in gunViolenceFull.csv.
 
 ### Source:
-Data was obtained from the GitHub repo https://github.com/jamesqo/gun-violence-data, which originally obtained the data from the Gun Violence Archive’s website. From the organization’s description:
+From the organization’s description:
 Gun Violence Archive (GVA) is a not for profit corporation formed in 2013 to provide free online public access to accurate information about gun-related violence in the United States. GVA will collect and check for accuracy, comprehensive information about gun-related violence in the U.S. and then post and disseminate it online.
 
 
